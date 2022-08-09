@@ -1,0 +1,5 @@
+DNI     |NOMBRE              |NOTA 1|NOTA2|PROMEDIO
+44183677|Flavio Coulleri     |8     |9    |8.5
+44183688|Brenda Gomez        |10    |10   |10
+35436323|Lucas Coulleri      |6     |6    |6
+40123124|Facundo Sequeira    |2     |3    |2.5
