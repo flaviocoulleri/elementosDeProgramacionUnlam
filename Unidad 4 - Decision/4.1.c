@@ -1,3 +1,4 @@
+//Se ingresan 3 números distintos. Determinar el mayor.
 #include<stdio.h>
 main()
 {

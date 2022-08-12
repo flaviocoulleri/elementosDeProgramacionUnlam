@@ -1,3 +1,4 @@
+//Se ingresan 3 números enteros. Informarlos en orden creciente.
 #include<stdio.h>
 main()
 {
