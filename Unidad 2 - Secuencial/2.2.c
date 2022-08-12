@@ -1,3 +1,4 @@
+//Se ingresan las notas de dos evaluaciones de un alumno. Determinar la nota promedio.
 #include<stdio.h>
 main()
 {
