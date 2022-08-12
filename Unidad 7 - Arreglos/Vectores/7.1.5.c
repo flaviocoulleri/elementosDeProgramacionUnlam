@@ -3,8 +3,6 @@ cada pedido se recibe:
 • Código de producto (de 1 a 10)
 • Cantidad de unidades solicitadas
 Se puede recibir más de un pedido por producto.
-Cátedra: Elementos de Programación
-Guía Práctica – V2.1 13 / 38
 La carga finaliza cuando se ingresa un producto con código igual a cero.
 Al finalizar se debe emitir un listado con código y cantidad de unidades solicitadas de cada producto.*/
 #include<stdio.h>

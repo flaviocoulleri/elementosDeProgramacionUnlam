@@ -1,3 +1,5 @@
+//Ingresar una matriz de 3x3 por teclado y un número entero. Realizar el producto de la matriz por la
+//constante
 #include<stdio.h>
 main()
 {
